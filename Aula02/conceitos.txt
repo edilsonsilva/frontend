@@ -25,3 +25,20 @@ extensão .html
 Para testar um arquivo html, nós o abrimos em 
 um navegador web(Chrome, Opera, Edge, Firefox,
 Safari, Yandex, Brave, Tor...)
+
+
+CSS, o que é ?
+
+CSS-Cascade Style Sheet(Folha de estilo em Cascata)
+O css é utilizado para fazer formatação em 
+páginas html.
+Você pode aplicar o css de 3 formas:
+   - Arquivo externo de css
+   - Embutir o css na tag head da página html
+   - Aplicar diretamente na tag html desejada
+
+Há também 3 elementos de aplicação:
+   - ID -identificador, usamos hashtag #
+   - class-classe, usamos ponto .
+   - tag-tag html
+
